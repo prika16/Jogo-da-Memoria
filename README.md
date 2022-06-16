@@ -1,1 +1,1 @@
-# Construindo um Jogo da Memória utilizando Java Script, HTML e CSS. 
+# Construindo um Jogo da Memória com personagens do Bob Esponja utilizando Java Script, HTML e CSS. 
